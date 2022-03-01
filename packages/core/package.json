@@ -24,5 +24,9 @@
   },
   "dependencies": {
     "@xxv998/utils": "^0.0.2"
+  },
+  "gitHead": "c13ae132da7953078cd204ef14ea347fce4f2dd5",
+  "publishConfig": {
+    "access": "public"
   }
 }
