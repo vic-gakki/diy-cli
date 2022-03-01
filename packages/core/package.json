@@ -1,0 +1,28 @@
+{
+  "name": "@xxv998/core",
+  "version": "0.0.0",
+  "description": "imooc cli core",
+  "keywords": [
+    "core"
+  ],
+  "author": "victor <1041203139@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "bin": {
+    "imooc-cli": "bin/index.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@xxv998/utils": "0.0.0"
+  }
+}
