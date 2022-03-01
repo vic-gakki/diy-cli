@@ -1,6 +1,6 @@
 {
   "name": "@xxv998/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "imooc cli core",
   "keywords": [
     "core"
@@ -23,6 +23,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xxv998/utils": "^0.0.1"
+    "@xxv998/utils": "^0.0.2"
   }
 }
